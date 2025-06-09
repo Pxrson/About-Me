@@ -1,55 +1,48 @@
-# About-Me ✌️
-:contentReference[oaicite:1]{index=1}
+# About-Me 👋
 
-## what i love ❤️:
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
+just some stuff about me
 
-![music vibe](https://tenor.com/view/animated-music-notes-dancing-gif-XXXXXX)  :contentReference[oaicite:5]{index=5}
+## what i like 💭
+- almost any music
+- basketball
+- learning lua
 
-## currently learning 📚:
+## learning now 📚
 - lua
 
-## my friends 👥:
-- Havoc (BESTIE) 💥
-- :contentReference[oaicite:6]{index=6}
-- DiddyCanes (kingcanes) 🎮
-- :contentReference[oaicite:7]{index=7}
-- :contentReference[oaicite:8]{index=8}
-- :contentReference[oaicite:9]{index=9}
+## friends 👥
+- Havoc (BESTIE)
+- Adriel (adriel.p3)
+- DiddyCanes (kingcanes)
+- Unc BloodPuppit (bloodpuppit)
+- Xfinity (not.oxy.cc)
+- some more but these are my main ones
 
-## about me (again) 🖤
-- :contentReference[oaicite:10]{index=10}
-- :contentReference[oaicite:11]{index=11}
-- :contentReference[oaicite:12]{index=12}
+## about me 🔍
+- im usually online. if not, im eating, sleeping, outside, or on tiktok
+- i describe myself as: "funny", "random", and "sigma"
+- my name is "pxrson". real name is "Kenadee"
 
-![tiktok scroll](https://tenor.com/view/tiktok-scroll-phone-gif-YYYYYY)  :contentReference[oaicite:13]{index=13}
+## music 🎵
+- [my spotify](https://open.spotify.com/user/31semjzsclnnsulnm44bvzyeokcu?si=8e9fd303e7844bb4)
+- fav artists: [trippie redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax?si=tbJeVHO4S9iqrnMLil4aJw), [xxxtentacion](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4?si=Xn5PzQQiSzShIK2LhRCCqw), [lil peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3?si=PGMxzpR1TLO_oqfklw2smQ), [lil tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi?si=DenM1om_TiyFIec-FJCkJw), [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0?si=H69e54wmRmajA7x5ae1vzg), and others
+- 2 fav songs rn: ["let's pretend we're numb"](https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW?si=5f1f36bf5a6748bb), ["NOT EVEN GHOSTS ARE THIS EMPTY"](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI?si=56f6a9fec3754ef0)
 
-## music 🎶
-- :contentReference[oaicite:14]{index=14}
-- :contentReference[oaicite:15]{index=15}
-- :contentReference[oaicite:16]{index=16}
-
-## gaming / coding 🎮💻
-- :contentReference[oaicite:17]{index=17}
-- :contentReference[oaicite:18]{index=18}
-- :contentReference[oaicite:19]{index=19}
-
-![coding cat](https://tenor.com/view/coding-cat-laptop-typing-gif-ZZZZZZ)  :contentReference[oaicite:20]{index=20}
+## gaming/coding 💻
+- fav game: roblox
+- lua projects: scripts / exploit / codes
+- what made me learn lua: my friend havoc
 
 ## sports 🏀
-- :contentReference[oaicite:21]{index=21}
-- :contentReference[oaicite:22]{index=22}
+- i play basketball for fun
+- fav basketball player: LEBRON
 
-![basketball dribble](https://tenor.com/view/basketball-dribble-small-gif-AAAAAA)  *(quick dribble)*
-
-## random / fun facts 🎲
-- :contentReference[oaicite:23]{index=23}
-- :contentReference[oaicite:24]{index=24}
-- :contentReference[oaicite:25]{index=25}
-- :contentReference[oaicite:26]{index=26}
+## random facts ✨
+- pets: cat (maggy), dogs (tony, molly/mippi, hooch)
+- don't really have any talents
+- proud of: making progress on learning lua
+- fav youtuber: caylus
 
 ---
 
-# *thanks for reading!* 🤍
+# thanks for reading!
