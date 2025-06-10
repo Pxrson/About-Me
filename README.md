@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30,36&height=200&section=header&text=pxrson&fontAlignY=40&fontSize=50&fontColor=FFFFFF&desc=Lua%20Developer%20|%20Roblox%20Script%20Creator&descAlignY=60&animation=fadeIn" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30,36&height=200&section=header&text=pxrson&fontAlignY=40&fontSize=50&fontColor=FFFFFF&desc=Learning%20Lua%20|%20Roblox%20Script%20Creator&descAlignY=60&animation=fadeIn" alt="Header Banner"/>
 
   <p align="center">
     <a href="https://www.roblox.com/users/4450443699/profile">
