@@ -168,7 +168,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Altura-Hub/ref
   <a href="https://open.spotify.com/user/31semjzsclnnsulnm44bvzyeokcu?si=8e9fd303e7844bb4">
     <img src="https://img.shields.io/badge/Spotify-My_Profile-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
+  <img src="https://img.shields.io/badge/Discord-.pxrson-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
 </div>
+​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 ---
 
