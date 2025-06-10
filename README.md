@@ -22,18 +22,17 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 ```
-👋 Hi, I'm Kenadee (pxrson)
-📍 Roblox Lua Developer
-🎮 Game script creator
-🏀 Basketball enthusiast
-🎵 Music lover (especially rap/hip-hop)
-```
-
+- 👋 Hi, I'm Kenadee (pxrson)
+- 📍 Roblox Lua Developer
+- 🎮 Game script creator
+- 🏀 Basketball enthusiast
+- 🎵 Music lover (especially rap/hip-hop)
 - 🌟 Usually online - if not, I'm eating, sleeping, outside, or on TikTok
 - 💯 Describe myself as: "funny", "random", and "sigma"
 - 🚀 Always looking to improve my Lua coding skills
 - 📈 Making progress every day in game development
 - 🔥 Working on creating useful Roblox scripts and tools
+```
 
 <br clear="right"/>
 
