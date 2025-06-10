@@ -39,7 +39,7 @@
 ## 🛠️ My Scripts
 
 <details open>
-<summary><b>Part Finder</b> - Part Finder</summary>
+<summary><b>Part Finder</b> - Find Parts</summary>
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/PartFinder/refs/heads/main/PartFinderScript.lua",true))()
