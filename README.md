@@ -15,8 +15,6 @@
       <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile"/>
     </a>
   </p>
-
-  <img src="https://komarev.com/ghpvc/?username=pxrson&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" style="height: 20px"/>
 </div>
 
 ## 👨‍💻 About Me
