@@ -39,7 +39,7 @@
 ## 🛠️ My Scripts
 
 <details open>
-<summary><b>Part Finder</b> - Locate game objects</summary>
+<summary><b>Part Finder</b> - Part Finder</summary>
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/PartFinder/refs/heads/main/PartFinderScript.lua",true))()
@@ -48,7 +48,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/PartFinder/ref
 </details>
 
 <details open>
-<summary><b>oMega Obby</b> - Enhanced obby gameplay</summary>
+<summary><b>oMega Obby</b> - Just some funzies</summary>
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/oMega-Obby/refs/heads/main/Script",true))()
@@ -66,7 +66,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/PxrsonToolbox/
 </details>
 
 <details open>
-<summary><b>Wall Hop Obby</b> - Specialized obby script</summary>
+<summary><b>Wall Hop Obby</b> - Another funzies one</summary>
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Wall-Hop-Obby/refs/heads/main/Script.lua",true))()
@@ -75,7 +75,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Wall-Hop-Obby/
 </details>
 
 <details open>
-<summary><b>Altura Hub</b> - Comprehensive script hub</summary>
+<summary><b>Altura Hub</b> - Altura Hub MM2!!</summary>
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Altura-Hub/refs/heads/main/Selector.lua",true))()
