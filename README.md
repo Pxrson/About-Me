@@ -119,23 +119,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Altura-Hub/ref
   <a href="https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI">NOT EVEN GHOSTS ARE THIS EMPTY</a>
 </div>
 
-## 🏀 Basketball
-
-<img align="left" src="https://media.giphy.com/media/l0MYHq0IFikR6viYU/giphy.gif" width="200"/>
-
-<div style="margin-left: 220px">
-
-### Hoops Enthusiast
-
-- Casual player who enjoys the game
-- Favorite player: **LEBRON JAMES** 👑
-- Love watching NBA games
-- Always working on improving my skills
-
-</div>
-
-<br clear="left"/>
-
 ## 👥 Friends
 
 - **Havoc** (BESTIE) - Learning Lua together
