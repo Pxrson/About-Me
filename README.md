@@ -87,7 +87,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Altura-Hub/ref
 <summary><b>Anti AFK</b> - Cool anti afk script</summary>
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK/refs/heads/main/script",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK/refs/heads/main/script.lua",true))()
 ```
 
 </details>
