@@ -137,12 +137,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
 
 ## 👥 Friends
 
-- Havoc (BESTIE) - Learning Lua together
-- Adriel (adriel.p3)
-- DiddyCanes (kingcanes)
+- Havoc (BESTIE)
+- Adriel
 - Unc BloodPuppit (bloodpuppit)
-- Xfinity (not.oxy.cc)
-- *And more!*
+- skol.win
 
 ## 🔍 Random Facts
 
