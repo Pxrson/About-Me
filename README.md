@@ -40,7 +40,7 @@
 ## 🛠️ My Scripts
 
 <details>
-<summary><b>oMega Obby</b> - Fun Obstacle Course</summary>
+<summary><b>oMega Obby</b> - roblox game</summary>
 
 ```lua
 -- Discord: .pxrson
@@ -50,7 +50,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/oMega-Obby/ref
 </details>
 
 <details>
-<summary><b>Pxrson Toolbox</b> - Useful Tools Collection</summary>
+<summary><b>Pxrson Toolbox</b> - Useful Tools</summary>
 
 ```lua
 -- Discord: .pxrson
@@ -60,7 +60,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/PxrsonToolbox/
 </details>
 
 <details>
-<summary><b>Wall Hop Obby</b> - Wall Hopping Fun</summary>
+<summary><b>Wall Hop Obby</b> - roblox game</summary>
 
 ```lua
 -- Discord: .pxrson
@@ -70,7 +70,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Wall-Hop-Obby/
 </details>
 
 <details>
-<summary><b>Altura Hub</b> - MM2 Hub</summary>
+<summary><b>Altura Hub</b> - roblox game</summary>
 
 ```lua
 -- Discord: .pxrson
