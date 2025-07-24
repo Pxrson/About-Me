@@ -25,16 +25,14 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
 
 ```
-- 👋 Hi, I'm Kenadee (pxrson)
-- 📍 Roblox Lua Developer
-- 🎮 Game Script Creator
-- 🏀 Basketball Enthusiast
+- 👋 Hi, i'm Kenadee (pxrson)
+- 📍 Upcoming roblox lua dev
+- 🎮 Game script creator
 - 🎵 Music Lover (Rap/Hip-Hop)
 - 🌟 Usually Online
 - 💯 Funny, Random, Sigma
 - 🚀 Improving Lua Skills
-- 📈 Progressing in Game Development
-- 🔥 Creating Useful Roblox Scripts & Tools
+- 🔥 Creating useful roblox scripts
 ```
 
 <br clear="right"/>
