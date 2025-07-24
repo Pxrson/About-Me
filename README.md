@@ -38,19 +38,13 @@
 
 ## 🛠️ My Scripts
 
-<details open>
-<summary><b>Part Finder</b> - Find Parts</summary>
-
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/PartFinder/refs/heads/main/PartFinderScript.lua",true))()
-```
-
 </details>
 
 <details open>
 <summary><b>oMega Obby</b> - Just some funzies</summary>
 
 ```lua
+-- discord: .pxrson
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/oMega-Obby/refs/heads/main/Script",true))()
 ```
 
@@ -60,6 +54,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/oMega-Obby/ref
 <summary><b>Pxrson Toolbox</b> - Collection of useful tools</summary>
 
 ```lua
+-- discord: .pxrson
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/PxrsonToolbox/refs/heads/main/Script.lua",true))()
 ```
 
@@ -69,6 +64,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/PxrsonToolbox/
 <summary><b>Wall Hop Obby</b> - Another funzies one</summary>
 
 ```lua
+-- discord: .pxrson
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Wall-Hop-Obby/refs/heads/main/Script.lua",true))()
 ```
 
@@ -78,6 +74,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Wall-Hop-Obby/
 <summary><b>Altura Hub</b> - Altura Hub MM2!!</summary>
 
 ```lua
+-- discord: .pxrson
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Altura-Hub/refs/heads/main/Selector.lua",true))()
 ```
 
@@ -87,7 +84,16 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Altura-Hub/ref
 <summary><b>Anti AFK</b> - Cool anti afk script</summary>
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK/refs/heads/main/script.lua",true))()
+-- discord: .pxrson
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyPos/refs/heads/main/anti%20afk.lua",true))()
+```
+
+<details open>
+<summary><b>Anti AFK</b> - Cool anti afk script</summary>
+
+```lua
+-- discord: .pxrson
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyPos/refs/heads/main/copy%20pos.lua",true))()
 ```
 
 </details>
@@ -178,6 +184,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK/refs/
     <img src="https://img.shields.io/badge/Spotify-My_Profile-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
   <img src="https://img.shields.io/badge/Discord-.pxrson-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://scriptblox.com/u/pxrson999">
+    <img src="https://img.shields.io/badge/Scriptblox-pxrson999-0075FF?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAGKADAAQAAAABAAAAGAAAAABmQgTYAAAAkUlEQVRIDeWUMQ6EQAhDWYvgK9hF9BZwT2EfYQmh0K+QTUECKqQBRgEuBB9CLt1F+xMvz394j2VNmGYKjnYRzL0qAYJuUaQJ8TGyv0gXv9WpGMMW43IA459G8A5YtQJ1bC9J94Fq/98Vk4A9u3e4k99mACy21xXgCvSvhQ3YcAYh9oGq+W4i08AAAAASUVORK5CYII=&logoColor=white" alt="Scriptblox"/>
+  </a>
 </div>
 ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
