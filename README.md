@@ -2,168 +2,165 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30,36&height=200&section=header&text=pxrson&fontAlignY=40&fontSize=50&fontColor=FFFFFF&desc=Learning%20Lua%20|%20Roblox%20Script%20Creator&descAlignY=60&animation=fadeIn" alt="Header Banner"/>
 
   <p align="center">
-    <a href="https://www.roblox.com/users/4450443699/profile">
+    <a href="https://www.roblox.com/users/4450443699/profile" target="_blank">
       <img src="https://img.shields.io/badge/Roblox-Profile-E2142D?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Profile"/>
     </a>
-    <a href="https://www.youtube.com/@pxrsonv">
+    <a href="https://www.youtube.com/@pxrsonv" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
     </a>
-    <a href="https://www.tiktok.com/@pxrson999">
+    <a href="https://www.tiktok.com/@pxrson999" target="_blank">
       <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Account"/>
     </a>
-    <a href="https://open.spotify.com/user/31semjzsclnnsulnm44bvzyeokcu?si=8e9fd303e7844bb4">
+    <a href="https://open.spotify.com/user/31semjzsclnnsulnm44bvzyeokcu?si=8e9fd303e7844bb4" target="_blank">
       <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile"/>
+    </a>
+    <a href="https://scriptblox.com/u/pxrson999" target="_blank">
+      <img src="https://img.shields.io/badge/Scriptblox-Profile-0075FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAGKADAAQAAAABAAAAGAAAAABmQgTYAAAAkUlEQVRIDeWUMQ6EQAhDWYvgK9hF9BZwT2EfYQmh0K+QTUECKqQBRgEuBB9CLt1F+xMvz394j2VNmGYKjnYRzL0qAYJuUaQJ8TGyv0gXv9WpGMMW43IA459G8A5YtQJ1bC9J94Fq/98Vk4A9u3e4k99mACy21xXgCvSvhQ3YcAYh9oGq+W4i08AAAAASUVORK5CYII=&logoColor=white" alt="Scriptblox Profile"/>
     </a>
   </p>
 </div>
 
-## 👨‍💻 About Me (Turn your phone over if on mobile!)
+## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
 
 ```
 - 👋 Hi, I'm Kenadee (pxrson)
 - 📍 Roblox Lua Developer
-- 🎮 Game script creator
-- 🏀 Basketball enthusiast
-- 🎵 Music lover (especially rap/hip-hop)
-- 🌟 Usually online - if not, I'm eating, sleeping, outside, or on TikTok
-- 💯 Describe myself as: "funny", "random", and "sigma"
-- 🚀 Always looking to improve my Lua coding skills
-- 📈 Making progress every day in game development
-- 🔥 Working on creating useful Roblox scripts and tools
+- 🎮 Game Script Creator
+- 🏀 Basketball Enthusiast
+- 🎵 Music Lover (Rap/Hip-Hop)
+- 🌟 Usually Online
+- 💯 Funny, Random, Sigma
+- 🚀 Improving Lua Skills
+- 📈 Progressing in Game Development
+- 🔥 Creating Useful Roblox Scripts & Tools
 ```
 
 <br clear="right"/>
 
 ## 🛠️ My Scripts
 
-</details>
-
-<details open>
-<summary><b>oMega Obby</b> - Just some funzies</summary>
+<details>
+<summary><b>oMega Obby</b> - Fun Obstacle Course</summary>
 
 ```lua
--- discord: .pxrson
+-- Discord: .pxrson
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/oMega-Obby/refs/heads/main/Script",true))()
 ```
 
 </details>
 
-<details open>
-<summary><b>Pxrson Toolbox</b> - Collection of useful tools</summary>
+<details>
+<summary><b>Pxrson Toolbox</b> - Useful Tools Collection</summary>
 
 ```lua
--- discord: .pxrson
+-- Discord: .pxrson
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/PxrsonToolbox/refs/heads/main/Script.lua",true))()
 ```
 
 </details>
 
-<details open>
-<summary><b>Wall Hop Obby</b> - Another funzies one</summary>
+<details>
+<summary><b>Wall Hop Obby</b> - Wall Hopping Fun</summary>
 
 ```lua
--- discord: .pxrson
+-- Discord: .pxrson
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Wall-Hop-Obby/refs/heads/main/Script.lua",true))()
 ```
 
 </details>
 
-<details open>
-<summary><b>Altura Hub</b> - Altura Hub MM2!!</summary>
+<details>
+<summary><b>Altura Hub</b> - MM2 Hub</summary>
 
 ```lua
--- discord: .pxrson
+-- Discord: .pxrson
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Altura-Hub/refs/heads/main/Selector.lua",true))()
 ```
 
 </details>
 
-<details open>
-<summary><b>Anti AFK</b> - Cool anti afk script</summary>
+<details>
+<summary><b>Anti AFK</b> - Prevents AFK</summary>
 
 ```lua
--- discord: .pxrson
+-- Discord: .pxrson
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyPos/refs/heads/main/anti%20afk.lua",true))()
 ```
+</details>
 
-<details open>
-<summary><b>Anti AFK</b> - Cool anti afk script</summary>
+<details>
+<summary><b>Copy Position</b> - Copies Player Position</summary>
 
 ```lua
--- discord: .pxrson
+-- Discord: .pxrson
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyPos/refs/heads/main/copy%20pos.lua",true))()
 ```
-
 </details>
 
 ## 📊 Skills & Tech
 
 <div align="center">
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-E2142D?style=for-the-badge&logo=roblox&logoColor=white)
-![Game Development](https://img.shields.io/badge/Game_Development-4CAF50?style=for-the-badge&logo=unity&logoColor=white)
-![Scripting](https://img.shields.io/badge/Scripting-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Badge"/>
+  <img src="https://img.shields.io/badge/Roblox-E2142D?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Badge"/>
+  <img src="https://img.shields.io/badge/Game_Development-4CAF50?style=for-the-badge&logo=unity&logoColor=white" alt="Game Development Badge"/>
+  <img src="https://img.shields.io/badge/Scripting-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Scripting Badge"/>
 </div>
 
 ## 🎵 Music Taste
 
 <div align="center">
   <table>
-    <tr>
-      <th colspan="2">Favorite Artists</th>
-    </tr>
-    <tr>
-      <td><a href="https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax">Trippie Redd</a></td>
-      <td><a href="https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4">XXXTENTACION</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3">Lil Peep</a></td>
-      <td><a href="https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi">Lil Tracy</a></td>
-    </tr>
-    <tr>
-      <td colspan="2"><a href="https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0">$uicideboy$</a></td>
-    </tr>
+    <thead>
+      <tr>
+        <th colspan="2">Favorite Artists</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax" target="_blank">Trippie Redd</a></td>
+        <td><a href="https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4" target="_blank">XXXTENTACION</a></td>
+      </tr>
+      <tr>
+        <td><a href="https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3" target="_blank">Lil Peep</a></td>
+        <td><a href="https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi" target="_blank">Lil Tracy</a></td>
+      </tr>
+      <tr>
+        <td colspan="2"><a href="https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0" target="_blank">$uicideboy$</a></td>
+      </tr>
+    </tbody>
   </table>
   
   <p>Current Favorites:</p>
-  <a href="https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW">let's pretend we're numb</a> • 
-  <a href="https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI">NOT EVEN GHOSTS ARE THIS EMPTY</a>
+  <a href="https://open.spotify.com/track/4VOLwHXIrB5zktV7prPeOW" target="_blank">let's pretend we're numb</a> • 
+  <a href="https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI" target="_blank">NOT EVEN GHOSTS ARE THIS EMPTY</a>
 </div>
 
 ## 👥 Friends
 
-- **Havoc** (BESTIE) - Learning Lua together
-- **Adriel** (adriel.p3)
-- **DiddyCanes** (kingcanes)
-- **Unc BloodPuppit** (bloodpuppit)
-- **Xfinity** (not.oxy.cc)
-- *Some more but these are my main ones*
+- Havoc (BESTIE) - Learning Lua together
+- Adriel (adriel.p3)
+- DiddyCanes (kingcanes)
+- Unc BloodPuppit (bloodpuppit)
+- Xfinity (not.oxy.cc)
+- *And more!*
 
 ## 🔍 Random Facts
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="10">
+  <table>
     <tr>
-      <td align="center" width="25%">
-        <b>🐾 My Pets</b>
-        <p>Cat: Maggy<br>Dogs: Tony, Molly/Mippi, Hooch</p>
-      </td>
-      <td align="center" width="25%">
-        <b>🏅 Proud of</b>
-        <p>Making progress on learning Lua</p>
-      </td>
-      <td align="center" width="25%">
-        <b>📺 Fav YouTuber</b>
-        <p>Caylus</p>
-      </td>
-      <td align="center" width="25%">
-        <b>🌱 Goals</b>
-        <p>Developing my coding talents</p>
-      </td>
+      <th>Pets</th>
+      <th>Proud of</th>
+      <th>Fav YouTuber</th>
+      <th>Goals</th>
+    </tr>
+    <tr>
+      <td>Cat: Maggy<br>Dogs: Tony, Molly/Mippi, Hooch</td>
+      <td>Making progress on Lua</td>
+      <td>Caylus</td>
+      <td>Developing coding skills</td>
     </tr>
   </table>
 </div>
@@ -171,24 +168,25 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
 ## 📱 Connect With Me
 
 <div align="center">
-  <a href="https://www.roblox.com/users/4450443699/profile">
+  <a href="https://www.roblox.com/users/4450443699/profile" target="_blank">
     <img src="https://img.shields.io/badge/Roblox-pxrson-E2142D?style=flat-square&logo=roblox&logoColor=white" alt="Roblox"/>
   </a>
-  <a href="https://www.youtube.com/@pxrsonv">
+  <a href="https://www.youtube.com/@pxrsonv" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-pxrsonv-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.tiktok.com/@pxrson999">
+  <a href="https://www.tiktok.com/@pxrson999" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-pxrson999-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="https://open.spotify.com/user/31semjzsclnnsulnm44bvzyeokcu?si=8e9fd303e7844bb4">
+  <a href="https://open.spotify.com/user/31semjzsclnnsulnm44bvzyeokcu?si=8e9fd303e7844bb4" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-My_Profile-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-.pxrson-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-  <a href="https://scriptblox.com/u/pxrson999">
+  <a href="https://discord.com/users/.pxrson" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-.pxrson-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+  <a href="https://scriptblox.com/u/pxrson999" target="_blank">
     <img src="https://img.shields.io/badge/Scriptblox-pxrson999-0075FF?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAGKADAAQAAAABAAAAGAAAAABmQgTYAAAAkUlEQVRIDeWUMQ6EQAhDWYvgK9hF9BZwT2EfYQmh0K+QTUECKqQBRgEuBB9CLt1F+xMvz394j2VNmGYKjnYRzL0qAYJuUaQJ8TGyv0gXv9WpGMMW43IA459G8A5YtQJ1bC9J94Fq/98Vk4A9u3e4k99mACy21xXgCvSvhQ3YcAYh9oGq+W4i08AAAAASUVORK5CYII=&logoColor=white" alt="Scriptblox"/>
   </a>
 </div>
-​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 
 ---
 
