@@ -137,7 +137,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
 
 ## 👥 Friends
 
-- Havoc (BESTIE)
+- Havoc (BESTIE)(helping me learn lua!!)
 - Adriel
 - Unc BloodPuppit (bloodpuppit)
 - skol.win
