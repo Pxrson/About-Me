@@ -28,10 +28,10 @@
 - 👋 Hi, i'm Kenadee (pxrson)
 - 📍 Upcoming roblox lua dev
 - 🎮 Game script creator
-- 🎵 Music Lover (Rap/Hip-Hop)
-- 🌟 Usually Online
-- 💯 Funny, Random, Sigma
-- 🚀 Improving Lua Skills
+- 🎵 Music lover (Rap/Hip-Hop/Rock, Metal/Country)
+- 🌟 Usually online
+- 💯 Funny, random
+- 🚀 Improving lua skills
 - 🔥 Creating useful roblox scripts
 ```
 
