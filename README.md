@@ -50,7 +50,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/oMega-Obby/ref
 </details>
 
 <details>
-<summary><b>Pxrson Toolbox</b> - Useful Tools</summary>
+<summary><b>Pxrson Toolbox</b> - useful tools</summary>
 
 ```lua
 -- Discord: .pxrson
@@ -74,13 +74,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Wall-Hop-Obby/
 
 ```lua
 -- Discord: .pxrson
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Altura-Hub/refs/heads/main/Selector.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Project-X-Altura/refs/heads/main/Main.lua",true))()
 ```
 
 </details>
 
 <details>
-<summary><b>Anti AFK</b> - Prevents AFK</summary>
+<summary><b>Anti AFK</b> - prevents AFK</summary>
 
 ```lua
 -- Discord: .pxrson
@@ -89,7 +89,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Pxrson/Anti-AFK_CopyP
 </details>
 
 <details>
-<summary><b>Copy Position</b> - Copies Player Position</summary>
+<summary><b>Copy Position</b> - copies player coords</summary>
 
 ```lua
 -- Discord: .pxrson
